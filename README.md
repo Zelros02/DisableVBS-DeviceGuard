@@ -1,6 +1,6 @@
 DisableVBS-DeviceGuard
 
-Use this script to disable VBS and Device Guard.
+Use this script to disable VBS and Device Guard if everything you have tried so far did not work or you just want the nuclear option from the start.
 
 Useful if you need to run VMs with virtualized Intel VT-x/EPT or AMD-V/RVI and have tried everything so far.
 
